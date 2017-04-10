@@ -1,29 +1,57 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: iCub Facility, Istituto Italiano di Tecnologia
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I worked at iCub Facility partecipating at a lot of project, technical and research either
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Feb. 2016 to now
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Junior Technician
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-cogs
 
 - name:
-    detail: Company B
+    detail: Azienda Sicura
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I followed a Java Programming course where I learned...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Nov. 2015 to Jan. 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Student
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-cogs
+ 
+- name:
+    detail: Università degli Studi di Genova
+    i18n: company_c
+  desc:
+    detail: I achieved the master degree in Neuroengineers & Bio-ICT, 110 cum laude
+    i18n: company_c_desc
+  date:
+    detail: Oct. 2013 to Oct. 2015
+    i18n: company_c_date
+  job:
+    detail: Student
+    i18n: company_c_job
+  icon: fa-graduation-cap
+  
+- name:
+    detail: Università degli Studi di Genova
+    i18n: company_d
+  desc:
+    detail: I achieved the bachelor degree in Bioingeneering, 108/110
+    i18n: company_d_desc
+  date:
+    detail: Oct. 2010 to Oct. 2013
+    i18n: company_d_date
+  job:
+    detail: Student
+    i18n: company_d_job
+  icon: fa-graduation-cap
