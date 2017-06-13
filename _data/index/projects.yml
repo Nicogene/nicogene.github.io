@@ -3,7 +3,26 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: rFSMTools
   i18n: rFSMTools
-  gh_user: Nicogene
+  gh_user:
   repo: robotology/rfsmTools
   img: /static/assets/img/landing/rfsmGui.svg
   desc: A set of tools to build, debug and execute FSM LUA-based state machines
+- name: YARP
+  i18n: YARP
+  gh_user: 
+  repo: robotology/yarp
+  img: /static/assets/img/landing/yarp-logo-name.png
+  desc: YARP is a library and toolkit for communication and device interfaces, used on everything from humanoids to embedded devices.
+- name: icub-main
+  i18n: icub-main
+  gh_user: 
+  repo: robotology/icub-main
+  img: /static/assets/img/landing/icub.svg
+  desc: The iCub Main Software Repository
+- name: yarpviz
+  i18n: yarpviz
+  gh_user: 
+  repo: robotology/yarpviz
+  img: /static/assets/img/landing/yarpviz.png
+  desc: A graphical tool for profiling and visualizing Yarp network
+

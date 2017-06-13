@@ -4,7 +4,7 @@
     detail: iCub Facility, Istituto Italiano di Tecnologia
     i18n: company_a
   desc:
-    detail: I worked at iCub Facility partecipating at a lot of project, technical and research either
+    detail: I worked at iCub Facility as Junior Technician, partecipating to technical and research projects. I acquired experience in software design for complex and eterogenous systems such as humanoid robots
     i18n: company_a_desc
   date:
     detail: Feb. 2016 to now
@@ -18,7 +18,7 @@
     detail: Azienda Sicura
     i18n: company_b
   desc:
-    detail: I followed a Java Programming course where I learned...
+    detail: I followed a Java Programming course where I learned Java programming language, and other notions about Oracle database, JDBC, JSP, HTML and JavaScript.  
     i18n: company_b_desc
   date:
     detail: Nov. 2015 to Jan. 2016
