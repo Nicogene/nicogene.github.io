@@ -32,7 +32,7 @@
     detail: Università degli Studi di Genova
     i18n: company_c
   desc:
-    detail: I achieved the master degree in Neuroengineers & Bio-ICT, 110 cum laude
+    detail: I achieved the master degree in Neuroengineers & Bio-ICT, 110 with honors
     i18n: company_c_desc
   date:
     detail: Oct. 2013 to Oct. 2015
@@ -46,7 +46,7 @@
     detail: Università degli Studi di Genova
     i18n: company_d
   desc:
-    detail: I achieved the bachelor degree in Bioingeneering, 108/110
+    detail: I achieved the bachelor degree in Bioengineering, 108/110
     i18n: company_d_desc
   date:
     detail: Oct. 2010 to Oct. 2013
