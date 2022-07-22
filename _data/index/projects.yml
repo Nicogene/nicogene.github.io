@@ -25,4 +25,18 @@
   repo: robotology/yarpviz
   img: /static/assets/img/landing/yarpviz.png
   desc: A graphical tool for profiling and visualizing Yarp network
+- name: robometry
+  i18n: robometry
+  gh_user: 
+  repo: robotology/robometry
+  img: /static/assets/img/landing/robometry.png
+  desc: Telemetry suite for logging data from your robot 🤖
+- name: blender-robotics-utils
+  i18n: robometry
+  gh_user: 
+  repo: robotology/blender-robotics-utils
+  img: /static/assets/img/landing/blender-robotics-utils.png
+  desc: Set of utilities for exporting/controlling your robot in Blender
+
+
 
