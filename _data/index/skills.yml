@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Git, C++, C, Java, Qt, CMake, WxWidgers, LaTex, JSP, Jekyll, SQL Server, JDBC, Lua, Matlab, HTML5, Machine Learing
-percentage: 80, 85, 75, 70, 70, 60, 70, 70, 60, 60, 60, 60, 70, 70, 50, 50, 
+aspects: Git, C++, C, YARP, Qt, CMake, ROS, ROS2, Blender, Jekyll, LaTex, Creo Parametric, Lua, Matlab, Python, Machine Learing
+percentage: 80, 85, 75, 90, 70, 60, 60, 70, 70, 60, 60, 60, 70, 70, 70, 50, 
