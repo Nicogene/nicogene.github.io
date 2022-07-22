@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Nicogene  # Be used at blog posts' author.
   first_name: Nicolò  # Be used at index page about me section.
   last_name: Genesio # Be used at index page about me section.
-  avatar: /static/assets/img/landing/nico.png  # upload your avatar at directory and edit it.
+  avatar: https://avatars.githubusercontent.com/u/19152494?v=4  # upload your avatar at directory and edit it.
   github_username: Nicogene  # Leave blank if you don't have now
   linkedin_id: nicogene # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
