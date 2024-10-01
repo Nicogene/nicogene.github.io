@@ -5,6 +5,19 @@
     detail: iCub Tech, Istituto Italiano di Tecnologia
     i18n: company_a
   desc:
+    detail: I co-managed a team of 8 people @ iCub Tech department. This role included the responsibility of interfacing with the customers (research lines) and handle task breakdown
+  date:
+    detail: Feb. 2023 to now
+    i18n: company_a_date
+  job:
+    detail: Scrum Master
+    i18n: company_a_job
+  icon: fa-cogs
+
+- name:
+    detail: iCub Tech, Istituto Italiano di Tecnologia
+    i18n: company_a
+  desc:
     detail: I worked at iCub Tech as Senior Technician. In quality of Software Distro Manager, I am the responsible person for time-based software releases of the iCub-Tech department. Recently, I participated to a project for defining a general purpose telemetry library and I developed a suite for controlling robots through Blender. I have also partecipated to the web-based app deployment of iCub-Tech, robot-bazaar.
   date:
     detail: May. 2022 to now
