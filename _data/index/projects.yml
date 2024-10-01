@@ -32,11 +32,17 @@
   img: /static/assets/img/landing/robometry.png
   desc: Telemetry suite for logging data from your robot 🤖
 - name: blender-robotics-utils
-  i18n: robometry
+  i18n: blender-robotics-utils
   gh_user: 
   repo: robotology/blender-robotics-utils
   img: /static/assets/img/landing/blender-robotics-utils.png
   desc: Set of utilities for exporting/controlling your robot in Blender
+- name: creo2urdf
+  i18n: creo2urdf
+  gh_user: 
+  repo: icub-tech-iit/creo2urdf
+  img: /static/assets/img/landing/icub.svg
+  desc: Plugin for generating URDF models from CREO mechanisms 
 
 
 
